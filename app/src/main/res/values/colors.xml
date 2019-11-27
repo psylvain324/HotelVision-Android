@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!--TODO: Fix These colors and names-->
+    <color name="transparent_grey_overlay">#22FFFFFF</color>
+    <color name="applozic_black_color">#8b8b83</color>
+    <color name="whitesmoke">#eeeee0</color>
+    <color name="applozic_theme_color_primary_dark">#2f4f4f</color>
+    <color name="alphabet_e">#3cb371</color>
+</resources>
