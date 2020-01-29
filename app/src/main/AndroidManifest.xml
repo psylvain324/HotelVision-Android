@@ -17,7 +17,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".ui.menu.SaveReviewActivity"
+            android:name=".ui.reviews.SaveReviewActivity"
             android:label="@string/title_activity_save_review"
             android:theme="@style/AppTheme.NoActionBar"></activity>
         <!--
@@ -48,6 +48,9 @@
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
             android:value="@string/facebook_app_id" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
 
         <activity
             android:name="com.facebook.FacebookActivity"

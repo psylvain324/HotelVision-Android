@@ -11,4 +11,5 @@
     <string name="title_activity_maps">TravelVisionMap</string>
     <string name="title_activity_save_review">SaveReviewActivity</string>
     <string name="google_maps_key">{Secret}</string>
+    <string name="RoomCharge">txtRoomNumber</string>
 </resources>
